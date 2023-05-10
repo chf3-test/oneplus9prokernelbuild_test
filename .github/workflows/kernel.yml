@@ -1,6 +1,6 @@
 name: Kernel Build CI
 
-on:
+on: workflow_dispatch
   push:
 
 env:
